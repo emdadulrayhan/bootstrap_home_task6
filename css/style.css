@@ -1,0 +1,48 @@
+.slider{
+	background-image: url(../images/img1.jpg);
+	/*min-height: 500px;*/
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.content{
+	background-color: rgba(22,23,25,.8);
+	
+	/*border:1px solid white;*/
+	margin: 50px 0;
+	padding:20px 60px;
+}
+.content h1{
+	font-size: 30px;
+	color:white;
+	margin:50px 0;
+}
+.content p{
+	font-size: 20px;
+	color:white;
+	margin:50px 0;
+
+}
+.content button{
+	margin-bottom: 100px;
+	color:white;
+}
+.ci .active {
+    background-color:red;
+}
+.ci{
+	bottom:40px;
+}
+.ci li {
+    width: 15px;
+    height: 15px;
+	border-radius: 50%;
+	background-color: green;
+	
+}
+.card{
+	margin-top:10px;
+}
+	
+
+
